@@ -1,0 +1,3 @@
+- have to run `go mod init` first
+- create test for `main.go` inside `main_test.go` 
+- run with `go test -v *.go`
