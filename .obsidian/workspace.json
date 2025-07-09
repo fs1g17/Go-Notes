@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Error Handling"
             }
+          },
+          {
+            "id": "ddd221e41ccc0b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Go Course Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Go Course Notes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,9 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91e3e06077166716",
+  "active": "ddd221e41ccc0b76",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Error Handling.md"
+    "Error Handling.md",
+    "First Go Course Notes.md",
+    "Welcome.md"
   ]
 }
